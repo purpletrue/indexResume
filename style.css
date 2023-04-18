@@ -60,7 +60,6 @@ section {
 #pf-img img {
   border: 1px solid #ccc;
   border-radius: 50%;
-  box-shadow: 5px 5px #eee;
 }
 
 /* 왼쪽, 자기 소개 부분 */
@@ -135,4 +134,12 @@ dd {
 }
 #right {
   padding-left: 2em;
+}
+
+
+.member_img {
+    width: 30px; 
+    height: 30px;
+    float: left; 
+    border-radius: 50%;
 }
